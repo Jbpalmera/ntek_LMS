@@ -1,5 +1,5 @@
     <div class="btn-download">
-        <a class="btn btn-success px-3 py-2" href="" target="_blank" >
+        <a class="btn btn-success px-3 py-2" href="#" >
             <img src="<?php echo base_url('assets/assets/images/message.png') ?>" alt="">
         </a>
     </div>

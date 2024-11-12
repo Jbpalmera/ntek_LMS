@@ -84,7 +84,7 @@ CREATE TABLE `tblattend` (
   `qrcode` varchar(20) DEFAULT NULL,
   `rfid` varchar(20) DEFAULT NULL,
   `username` varchar(150) DEFAULT NULL,
-  `srcode` varchar(20) DEFAULT NULL,
+  `srcode` varchar(20) DEFAULT NULL, 
   `kiosk` varchar(11) DEFAULT NULL,
   `floor` varchar(5) DEFAULT NULL,
   `in_time` varchar(50) DEFAULT NULL,

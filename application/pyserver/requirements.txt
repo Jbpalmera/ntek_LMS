@@ -1,0 +1,16 @@
+langchain
+langchain_community
+langchain_core
+langchain_openai
+langchain_experimental
+langchain_groq
+langchain_hub
+Chroma
+FAISS
+pandas
+docx2txt
+python-pptx
+PyPDF2
+python-dotenv
+uvicorn
+mysql-connector-python
