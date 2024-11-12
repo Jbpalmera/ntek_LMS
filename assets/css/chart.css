@@ -1,0 +1,9 @@
+#productChartContainer {
+    width: 300px; 
+    height: 300px; 
+    margin: 0 auto; 
+}
+#productChart {
+    width: 100% !important;
+    height: 100% !important;
+}

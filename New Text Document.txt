@@ -1,0 +1,4 @@
+Latest Library Management System
+Updated Open Source Template with better UI (Hope UI) 
+Python Server On board
+PythonIntegration on Controller
